@@ -1,3 +1,7 @@
+1
+
+
+
 irregular_verbs = ['be', 'beat', 'become', 'begin', 'bleed', 'blow', 'break', 'bring', 'build', 'burst', 'buy',
 'catch', 'choose', 'come', 'cost', 'creep', 'cut',
 'do', 'draw', 'dream', 'drink', 'drive',
